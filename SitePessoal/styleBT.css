@@ -102,6 +102,11 @@ i.fa{
   color: black;
 }
 
+h2#teste{
+  color: blue;
+  text-align: left;
+}
+
 a#linkModal{
   outline-style: none;
 }
