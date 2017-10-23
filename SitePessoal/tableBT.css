@@ -1,0 +1,12 @@
+table th, table td{
+    width: 18%;
+}
+
+th.prim, td.prim{
+    width: 10%;
+}
+
+span.brand-title {
+  font-size: 1.3em;
+  font-weight: bold;
+}
